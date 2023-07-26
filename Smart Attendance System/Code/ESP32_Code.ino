@@ -5,9 +5,9 @@
 #define RXp2 16
 #define TXp2 17
 
-const char* WIFI_SSID = "Sai";
-const char* WIFI_PASSWORD = "saisaisai";
-const char* TOKEN = "H2xUiGv2qLp4HVEtEd62";
+const char* WIFI_SSID = "Wifi_Name";
+const char* WIFI_PASSWORD = "Password";
+const char* TOKEN = "ID";
 const char* THINGSBOARD_SERVER = "demo.thingsboard.io";
 
 WiFiClient wifiClient;
